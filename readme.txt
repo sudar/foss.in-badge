@@ -1,4 +1,4 @@
-﻿=== WordCamp NYC Badge ===
+﻿=== Foss.in Badge ===
 Contributors: sudar 
 Tags: foss.in, Badge, sidebar
 Requires at least: 2.8
